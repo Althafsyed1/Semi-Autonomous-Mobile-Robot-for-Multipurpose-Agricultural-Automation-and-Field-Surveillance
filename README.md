@@ -822,21 +822,19 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 **Mohammad Althaf Syed**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-althaf-syed/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Althafsyed1)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 ### Project Team
 - **Hardware Design**: Mohammad Althaf Syed
 - **Firmware Development**: Mohammad Althaf Syed
-- **Mechanical Assembly**: [Team Member Names]
-- **Testing & Validation**: [Team Member Names]
+- **Mechanical Assembly**: Naveen and Eshwar
+- **Testing & Validation**: 
 
 ### Acknowledgments
-- **Advisor**: [Professor/Mentor Name]
-- **Institution**: [University/College Name]
-- **Funding**: [If applicable]
-- Special thanks to the Arduino and ESP8266 open-source communities
+- **Advisor**: Dr Cherukuri Tara Sasanka
+- **Institution**: R.V.R. & J.C.College of Engineering
+- Special thanks to the Arduino and ESP8266 open-source communities.
 
 ---
 
@@ -844,7 +842,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 - **Issues**: [GitHub Issues](https://github.com/Althafsyed1/Agri_robot/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Althafsyed1/Agri_robot/discussions)
-- **Email**: your.email@example.com
+- **Email**: althaf2577@gmail.com
 
 ---
 
@@ -877,6 +875,5 @@ Made in India 🇮🇳 | Powered by Open Source
 
 ---
 
-**Last Updated:** February 2026  
 **Version:** 1.0 (Prototype)  
 **Status:** Active Development
