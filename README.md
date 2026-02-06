@@ -1,4 +1,4 @@
-# 🌾 Agro-Bot: Multipurpose Semi-Autonomous Agricultural Robot
+# Semi-Autonomous Mobile Robot for Multipurpose Agricultural Automation and Field Surveillance
 
 [![Arduino](https://img.shields.io/badge/Arduino-ESP8266-blue.svg)](https://www.arduino.cc/)
 [![Platform](https://img.shields.io/badge/Platform-IoT-green.svg)](https://en.wikipedia.org/wiki/Internet_of_things)
