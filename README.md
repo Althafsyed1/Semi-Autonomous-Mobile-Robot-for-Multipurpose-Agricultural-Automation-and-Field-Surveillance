@@ -81,7 +81,10 @@ Modern agriculture faces critical challenges:
 - **Battery Backup**: Rechargeable lithium-ion/lead-acid batteries
 
 ---
-[![Project Assets](https://img.shields.io/badge/Assets-Google_Drive-blue?logo=google-drive)]([YOUR_LINK](https://drive.google.com/drive/u/0/home))
+## 📸 Field Testing – Agricultural Robot Deployment
+
+![Semi-Autonomous Agricultural Robot](/Users/mohammadalthafsyed/Downloads.jpg)
+
 
 
 ## 🏗️ System Architecture
