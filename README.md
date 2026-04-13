@@ -84,6 +84,8 @@ Modern agriculture faces critical challenges:
 ## 📸 Field Testing – Agricultural Robot Deployment
 
 ![Semi-Autonomous Agricultural Robot](/Users/mohammadalthafsyed/Downloads.jpg)
+![WhatsApp Image 2024-05-01 at 18 27 02_2d89449d (1)](https://github.com/user-attachments/assets/414c3d7c-8025-416f-90da-de4452ed8b8b)
+
 
 
 
